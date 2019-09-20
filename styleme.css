@@ -1,0 +1,21 @@
+
+body{
+    background-color: rgba(234, 235, 238, 0.8);
+}
+#head1{
+    color: white;
+    background-color: rgb(129, 166, 221);
+
+}
+#paraend{
+    text-align: center;
+    background-color: rgb(241, 226, 219)
+}
+.head{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    color:rgb(99, 90, 97);
+    background-color: rgb(207, 221, 241)
+    
+}
