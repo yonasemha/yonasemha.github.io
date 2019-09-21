@@ -1,0 +1,26 @@
+body{
+    text-decoration-color: #404040;
+    overflow-y : auto;
+    font-size: 11pt;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.head{
+    background-color: #F0F0F0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:#A4A400 ;
+    font-size: 18pt;
+
+}
+#head1{
+    font-size: 20pt;
+    text-align: center;
+}
+a{
+    color: #A4A400;
+}
+#div1{
+    background-color:rgb(248, 244, 217);
+    font-style: italic;
+
+    
+}
